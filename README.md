@@ -186,6 +186,7 @@ _[You can find more frameworks at "awesome-css-frameworks"](https://github.com/t
 ## Style Guide
 
 * [AUI](http://docs.atlassian.com/aui/latest/docs) by Atlassian Design
+* [CSS Layout](https://csslayout.io/) by [Nguyen Huu Phuoc](https://github.com/phuoc-ng)
 * [Design Elements](http://rizzo.lonelyplanet.com/styleguide/design-elements/colours) by lonely planet
 * [Dropbox (S)CSS Style Guide](https://github.com/dropbox/css-style-guide) by Dropbox
 * [Fluent UI](https://github.com/microsoft/fluentui) by Microsoft
